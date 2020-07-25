@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://ardid.com.ar">Webpage</a> •
-  <a href="https://twitter.com/aardid">Twitter</a>
+  <a href="https://twitter.com/aardid">Twitter</a> •
+  <a href="https://trincheradev.com">Trinchera Dev</a>
 </p>
 
 ---
